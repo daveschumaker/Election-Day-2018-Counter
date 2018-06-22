@@ -1,0 +1,14 @@
+{
+  "name": "election-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && parcel build --public-url='.' src/index.html",
+    "clean": "rm -rf dist/*",
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "Dave Schumaker",
+  "license": "MIT"
+}

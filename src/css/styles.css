@@ -1,0 +1,13 @@
+.row {
+    padding: 20px 0;
+    text-align: center;
+}
+
+#days {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+#election-date {
+    color: gray;
+}

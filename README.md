@@ -1,6 +1,6 @@
 # Election Day 2018 Counter
 
-![Election Day Screenshot]()
+![Election Day Screenshot](https://raw.githubusercontent.com/daveschumaker/Election-Day-2018-Counter/master/screenshot/election-day.png)
 
 Simple web app that counts down the days until Election Day 2018 in the United States.
 
